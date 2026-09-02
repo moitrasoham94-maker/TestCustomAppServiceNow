@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+  <sys_user_role action="INSERT_OR_UPDATE">
+    <sys_id>b4ae7d2dc1cd42dc87f05d31a6cc36c9</sys_id>
+    <sys_scope display_value="x_2140989_testcu_0">ddf4ec9a83430310e078cd19feaad310</sys_scope>
+    <sys_update_name>sys_user_role_b4ae7d2dc1cd42dc87f05d31a6cc36c9</sys_update_name>
+    <assignable_by/>
+    <can_delegate>true</can_delegate>
+    <description>Role for managing releases within the TestCustom1 application</description>
+    <elevated_privilege>false</elevated_privilege>
+    <grantable>true</grantable>
+    <name>x_2140989_testcu_0.release_management</name>
+    <scoped_admin>false</scoped_admin>
+    <suffix>release_management</suffix>
+  </sys_user_role>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+  <sys_user_role action="INSERT_OR_UPDATE">
+    <sys_id>c104285fee7646049e5a6e20b0663c34</sys_id>
+    <sys_scope display_value="x_2140989_testcu_0">ddf4ec9a83430310e078cd19feaad310</sys_scope>
+    <sys_update_name>sys_user_role_c104285fee7646049e5a6e20b0663c34</sys_update_name>
+    <assignable_by/>
+    <can_delegate>true</can_delegate>
+    <description>Role for managing dispatch operations within the TestCustom1 application</description>
+    <elevated_privilege>false</elevated_privilege>
+    <grantable>true</grantable>
+    <name>x_2140989_testcu_0.dispatch_management</name>
+    <scoped_admin>false</scoped_admin>
+    <suffix>dispatch_management</suffix>
+  </sys_user_role>
+</record_update>
