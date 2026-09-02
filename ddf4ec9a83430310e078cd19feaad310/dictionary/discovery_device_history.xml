@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="no_audit_delete=true" db_object_id="71e22940a5a503108bb220b7a4d21238" label="Device" max_length="40" name="discovery_device_history" type="collection">
+        <element label="Demo" max_length="40" name="x_2140989_testcu_0_demo" type="string"/>
+    </element>
+</database>
